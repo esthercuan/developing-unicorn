@@ -12,6 +12,9 @@ This is a curriculum that is provided in increments of 3 months.
 - [ ] [Javascript: The good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_7?ie=UTF8&qid=1526964015&sr=8-7&keywords=javascript)
 
 ## Courses to take  
+These are in priority order: 
+
+- [ ] [Up and Running with Flow: typechecking](https://egghead.io/lessons/javascript-up-and-running-with-facebook-flow-for-typed-javascript)
 - [ ] [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress)
 - [ ] [Testing with Jest and Enzyme](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)
 - [ ] [Build Complex 3d models with WebGL](https://egghead.io/courses/build-complex-3d-models-with-webgl)
