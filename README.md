@@ -3,7 +3,7 @@ This is a curriculum that is provided in increments of 3 months.
 
 
 ## Increase touch-typing speed 
-- [Faster touch typing](https://www.keybr.com/) Average speed: 71 wpm
+- [Faster touch typing](https://www.keybr.com/) Average speed now: 71wpm - Average speed target: 90wpm 
 - [Confirmation Bias](https://www.quora.com/How-important-is-touch-typing-to-a-programmer)
 
 ## Books on Javascript to buy 
